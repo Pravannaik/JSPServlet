@@ -1,0 +1,8 @@
+Title,Author,ISBN number,Subject,Type,Quantity,Total
+The Invincible Iron Man,Stan Lee,20910992092,Sci-Fi,Book,0,1
+The Cycle of Forests,Radcliff,92092092029,Wildlife,Book,1,1
+Image and Signal Processing,ElMoataz-Billah,9830039003993,Sci-Fi,Journals,2,2
+Comp Ace,Kadokawa Shoten,9332013429,Gaming,Magazines,2,2
+Lightspeed,John Joseph Adams,8311120010,Sci-Fi,Magazines,1,1
+Caravan,Warners Midland,7492200001,Wildlife,Magazines,1,1
+Care About Nature,Sunidhi M,9992309012,Wildlife,Journals,1,1
