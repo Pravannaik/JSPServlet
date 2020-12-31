@@ -1,0 +1,81 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+
+.App {
+  border-radius: 17px;
+  background-color: #c09ce28f;
+  padding: 20px;
+  height: 400px;
+  width: 800px;
+  margin: auto;
+  margin-top: 2%;
+  box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.75);
+  display:block; 
+  justify-content: space-evenly;
+}
+
+.scoreSec {
+  font-size: 24px;
+  margin-top: 10%;
+  margin-left: 20%;
+  align-items: center;
+  
+}
+
+.TimerSec {
+  margin-left: 45%;    
+  position: relative;
+} 
+
+.TimerSec h1 {   
+  font-size: 200%;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: white;
+  text-align: center;
+}
+
+.QuizSection {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Ques {
+  width: 100%; 
+  position: relative;
+}
+
+.questionCount {
+    margin-bottom: 20px;
+}
+
+.questionCount span {
+    margin-bottom: 12px;
+}
+
+.questionText {
+    margin-bottom: 12px;
+}
+
+.Ans {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.AnsButton {
+  width: 100%;
+  font-size: 16px;
+  color: #ffffff;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  background-color: #252d4a;
+  display: flex;
+  padding: 7px;
+  justify-content: flex-start;
+  border: 2px solid #ffffffe5;
+  cursor: pointer;
+}
